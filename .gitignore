@@ -1,0 +1,12 @@
+# Logs
+logs
+*.log
+
+.DS_Store
+package-lock.json
+.idea
+cache/
+artifacts/
+deployments/
+.openzeppelin/
+.deps
